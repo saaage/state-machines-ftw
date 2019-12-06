@@ -1,0 +1,9 @@
+{
+  "watchDirs": ["src"],
+  "webpack": {
+    "configPath": "react-scripts/config/webpack.config"
+  },
+  "rootDir": "src",
+  "port": 3001
+}
+
